@@ -4071,12 +4071,12 @@
                                     <value>true</value>
                                 </entry>
                                 <entry>
-                                    <key>bb</key>
-                                    <value>false</value>
-                                </entry>
-                                <entry>
                                     <key>winmobile</key>
                                     <value>true</value>
+                                </entry>
+                                <entry>
+                                    <key>bb</key>
+                                    <value>false</value>
                                 </entry>
                             </platMap>
                         </actionList>
@@ -6277,16 +6277,8 @@
                     <tc_border>3</tc_border>
                     <tc_defaultSelection>true</tc_defaultSelection>
                     <tc_postOnclickJs>
-                        <evtSequence>
-                            <enabled>true</enabled>
-                            <seqname></seqname>
-                        </evtSequence>
                     </tc_postOnclickJs>
                     <tc_preOnclickJs>
-                        <evtSequence>
-                            <enabled>true</enabled>
-                            <seqname></seqname>
-                        </evtSequence>
                     </tc_preOnclickJs>
                     <blockedSkin>Skin Defaults</blockedSkin>
                     <spaBlockedUISkin>Skin Defaults</spaBlockedUISkin>
@@ -7607,11 +7599,11 @@
                                 <y>1</y>
                             </location>
                             <size>
-                                <width>235</width>
+                                <width>227</width>
                                 <height>48</height>
                             </size>
                             <sizePercent>
-                                <width>54</width>
+                                <width>52</width>
                                 <height>100</height>
                             </sizePercent>
                             <skinId>sknLblGrey</skinId>
@@ -8249,15 +8241,15 @@
                             <widgetID>p2kwiet10418868691860</widgetID>
                             <createdGAVersion>5.0.0</createdGAVersion>
                             <location>
-                                <x>332</x>
+                                <x>324</x>
                                 <y>1</y>
                             </location>
                             <size>
-                                <width>107</width>
+                                <width>115</width>
                                 <height>48</height>
                             </size>
                             <sizePercent>
-                                <width>24</width>
+                                <width>26</width>
                                 <height>100</height>
                             </sizePercent>
                             <skinId>sknLblGrey</skinId>
@@ -8584,10 +8576,10 @@
                                 </android>
                                 <android_override>false</android_override>
                                 <bb>
-                                    <left>0</left>
+                                    <left>1</left>
                                     <right>0</right>
-                                    <top>0</top>
-                                    <bottom>0</bottom>
+                                    <top>1</top>
+                                    <bottom>1</bottom>
                                     <unit>%</unit>
                                 </bb>
                                 <bb10>
@@ -8598,7 +8590,7 @@
                                     <unit>%</unit>
                                 </bb10>
                                 <bb10_override>false</bb10_override>
-                                <bb_override>false</bb_override>
+                                <bb_override>true</bb_override>
                                 <default_override>true</default_override>
                                 <defaults>
                                     <left>1</left>
@@ -10206,11 +10198,11 @@
                             <y>1</y>
                         </location>
                         <size>
-                            <width>236</width>
+                            <width>227</width>
                             <height>48</height>
                         </size>
                         <sizePercent>
-                            <width>54</width>
+                            <width>52</width>
                             <height>100</height>
                         </sizePercent>
                         <skinId>sknLblSubTitl</skinId>
@@ -10848,15 +10840,15 @@
                         <widgetID>p2kwiet10418868691823</widgetID>
                         <createdGAVersion>5.0.0</createdGAVersion>
                         <location>
-                            <x>334</x>
+                            <x>325</x>
                             <y>1</y>
                         </location>
                         <size>
-                            <width>108</width>
+                            <width>117</width>
                             <height>48</height>
                         </size>
                         <sizePercent>
-                            <width>25</width>
+                            <width>27</width>
                             <height>100</height>
                         </sizePercent>
                         <skinId>sknLblSubTitl</skinId>

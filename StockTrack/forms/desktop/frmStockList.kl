@@ -2983,16 +2983,8 @@
                     <tc_border>3</tc_border>
                     <tc_defaultSelection>true</tc_defaultSelection>
                     <tc_postOnclickJs>
-                        <evtSequence>
-                            <enabled>true</enabled>
-                            <seqname></seqname>
-                        </evtSequence>
                     </tc_postOnclickJs>
                     <tc_preOnclickJs>
-                        <evtSequence>
-                            <enabled>true</enabled>
-                            <seqname></seqname>
-                        </evtSequence>
                     </tc_preOnclickJs>
                     <blockedSkin>Skin Defaults</blockedSkin>
                     <spaBlockedUISkin>Skin Defaults</spaBlockedUISkin>
