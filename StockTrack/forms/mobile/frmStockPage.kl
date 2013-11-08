@@ -1393,6 +1393,7 @@
             <direction>0</direction>
             <usePercent>true</usePercent>
             <orientation>constants.BOX_LAYOUT_HORIZONTAL</orientation>
+            <overrideProperties>KHBox.tc_position</overrideProperties>
             <overrideProperties>KHBox.winmobile_position</overrideProperties>
             <overrideProperties>KHBox.winphone8_position</overrideProperties>
             <position>0</position>
@@ -1422,7 +1423,7 @@
             </gridviewConfig>
             <symbian_position>0</symbian_position>
             <tooltip></tooltip>
-            <tc_position>0</tc_position>
+            <tc_position>1</tc_position>
             <TCBlockedUISkin>Skin Defaults</TCBlockedUISkin>
             <wapDirection>0</wapDirection>
             <spa_blockedUISkin>Skin Defaults</spa_blockedUISkin>
@@ -2704,6 +2705,7 @@
             <usePercent>false</usePercent>
             <orientation>constants.BOX_LAYOUT_HORIZONTAL</orientation>
             <overrideProperties>KHBox.Header</overrideProperties>
+            <overrideProperties>KHBox.tc_position</overrideProperties>
             <overrideProperties>KHBox.winmobile_position</overrideProperties>
             <overrideProperties>KHBox.winphone8_position</overrideProperties>
             <position>0</position>
@@ -2733,7 +2735,7 @@
             </gridviewConfig>
             <symbian_position>0</symbian_position>
             <tooltip></tooltip>
-            <tc_position>0</tc_position>
+            <tc_position>1</tc_position>
             <TCBlockedUISkin>Skin Defaults</TCBlockedUISkin>
             <wapDirection>0</wapDirection>
             <spa_blockedUISkin>Skin Defaults</spa_blockedUISkin>
